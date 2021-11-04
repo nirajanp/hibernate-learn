@@ -31,3 +31,9 @@ hs_err_pid*
 # eclipse files
 .project
 .settings/
+
+# get rid of target folder stuffs
+target/
+
+# hibernate configure file is already added to the repo so, not adding multiple times.
+hibernate.cfg.xml
