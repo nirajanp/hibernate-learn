@@ -6,7 +6,7 @@ import org.hibernate.cfg.Configuration;
 
 import com.learn.hibernate.entity.StudentEntity;
 
-public class StudentMain {
+public class CreateStudentMain {
 
 	public static void main(String[] args) {
 		// create session factory
